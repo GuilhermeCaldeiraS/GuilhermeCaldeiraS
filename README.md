@@ -10,7 +10,7 @@ Me chamo Guilherme Caldeira, tenho 20 anos e moro em São Paulo - SP. Sou formad
  
 #
 
-<img align="right" alt="" height="100px" src="./src/Red Dead Redemption Rdr2 GIF by Rockstar Games.gif">
+<img align="right" alt="" height="150px" src="./src/death note l GIF.gif">
 
 <h3 align="left">Connect with me!</h3>
 
