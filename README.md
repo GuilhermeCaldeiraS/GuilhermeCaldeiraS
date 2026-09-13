@@ -6,17 +6,16 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Me chamo Guilherme Caldeira, tenho 20 anos e moro em São Paulo - SP. Sou formado em Programação Web, e atualmente curso Programação de Sistemas na Obra Social Dom Bosco Itaquera. Sou apaixonado por tecnologia e hardware.
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="100px" src="./src/Red Dead Redemption Rdr2 GIF by Rockstar Games.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guilhermecaldeira2703@gmail.com
+)
 
 
 <h3 align="left">My Stack ~</h3>
@@ -75,11 +74,11 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="C#"
+    title="C#"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <br/>
 <br/>
